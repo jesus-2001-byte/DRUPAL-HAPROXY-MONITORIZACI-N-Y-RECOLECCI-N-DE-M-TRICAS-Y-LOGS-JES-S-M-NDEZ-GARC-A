@@ -8,4 +8,4 @@ Se describe un sistema de monitoreo para un entorno compuesto por el CMS Drupal 
 
 **#4. Monitorización: Docker-Compose, Prometheus y Node Exporter:** El escenario será montado en Docker mediante Docker-Compose. La monitorización se realizará con Prometheus y Node Exporter, a través del uso de la herramienta Prometheus-Operator.
 
-**#4. Monitorización: DMonitoreo de la Base de Datos: MySQL Exporter y Dashboard de Percona para Grafana:** Se utilizará MySQL Exporter para monitorear la base de datos. Para la visualización de los datos, se ha elegido el dashboard de Percona en Grafana.
+**#5. Monitorización: DMonitoreo de la Base de Datos: MySQL Exporter y Dashboard de Percona para Grafana:** Se utilizará MySQL Exporter para monitorear la base de datos. Para la visualización de los datos, se ha elegido el dashboard de Percona en Grafana.
