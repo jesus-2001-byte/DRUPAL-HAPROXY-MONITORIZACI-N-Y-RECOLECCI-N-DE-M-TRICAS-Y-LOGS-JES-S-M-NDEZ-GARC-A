@@ -9,6 +9,6 @@ SOLUCIÓN DE MONITOREO USANDO UN SISTEMA BASADO MÉTRICAS Y DATASOURCES PARA DRU
 
 **#4. Monitorización: Docker-Compose, Prometheus y Node Exporter:** Escenario será montado en Docker mediante Docker-Compose. La monitorización se realizará con Prometheus y Node Exporter, a través del uso de la herramienta Prometheus-Operator, monitorizamos nuestro host. (Monitorización ideal para servers).
 
-**#5. Monitorización: DMonitoreo de la Base de Datos: MySQL Exporter y Dashboard de Percona para Grafana:** Se utilizará MySQL Exporter para monitorear la base de datos. 
+**#5. Monitorización: Monitoreo de la Base de Datos: MySQL Exporter y Dashboard de Percona para Grafana:** Se utilizará MySQL Exporter para monitorear la base de datos. 
 
 
