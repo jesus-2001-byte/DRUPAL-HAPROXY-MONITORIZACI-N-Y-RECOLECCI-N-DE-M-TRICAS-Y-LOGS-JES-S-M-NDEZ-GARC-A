@@ -26,8 +26,8 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: drupal
-      MYSQL_USER: user
-      MYSQL_PASSWORD: clave
+      MYSQL_USER: drupal_user2023
+      MYSQL_PASSWORD: Fl0r&c4Est4mp4d0
     volumes:
       - mariadb-data:/var/lib/mysql
 
