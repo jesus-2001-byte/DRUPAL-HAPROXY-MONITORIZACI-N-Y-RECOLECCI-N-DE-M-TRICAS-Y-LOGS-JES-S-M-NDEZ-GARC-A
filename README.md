@@ -11,4 +11,6 @@
 
 **#5. Monitorización: DMonitoreo de la Base de Datos: MySQL Exporter y Dashboard de Percona para Grafana:** Se utilizará MySQL Exporter para monitorear la base de datos. 
 
+**SISTEMA DE ALERTAS VIA MAIL AGREGADO**
+
 
